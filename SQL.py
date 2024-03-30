@@ -2,7 +2,7 @@ import streamlit as st
 
 def app():
     
-    st.title('The SQL Queries:violet[ used in this projet]')
+    st.title('The SQL Queries:violet[ used in this project]')
 
 
     queries = [
